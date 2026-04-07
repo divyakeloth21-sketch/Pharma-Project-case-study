@@ -35,3 +35,8 @@ Ensure timely project delivery, effective stakeholder coordination, and operatio
 ## 💡 Key Learning
 Strong understanding of structured project delivery in a regulated environment. Pharma-Project-case-study
 Case study of project management experience at GSK, focusing on stakeholder coordination, project tracking, and delivery optimisation.
+## 📄 Case Study Document
+
+- [GSK Project Impact Case Study](./GSK_Project_Impact_Case_Study.md)
+
+This case study highlights my experience in improving project delivery efficiency, stakeholder coordination, and KPI-driven reporting within a global pharmaceutical environment.
